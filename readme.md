@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:4c1d95,100:22d3ee&text=Secure%20EHR%20Insight&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=Clinical%20Validator%20%E2%80%A2%20Guardrailed%20RAG%20for%20Patient-Scoped%20Q%26A&descAlignY=58&descSize=20" width="100%" alt="Secure EHR Insight – Clinical Validator"/>
+<h1 align="center"><b>🛡️ SECURE EHR INSIGHT – CLINICAL VALIDATOR</b></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=Grounded+answers+from+patient+records;Patient-scoped+vector+retrieval+with+pgvector;NeMo+Guardrails+on+every+response;Deployed+and+verified+on+Google+Cloud" alt="Typing animation"/>
-
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Python-3.10+-7c3aed?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/FastAPI-Backend-059669?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
