@@ -299,18 +299,6 @@ Browse to `http://localhost:8501` (an Incognito window avoids stale sessions).
 - 🧪 **De-identified data only.** Develop and demo with public, de-identified, or synthetic records. Credentialed datasets usually forbid sending text to third-party APIs; check the data use agreement.
 - ⚖️ **Compliance.** Real patient data needs HIPAA or India's DPDP Act work that this prototype does not provide.
 
-## 🗺️ Roadmap
-
-- [x] End-to-end RAG pipeline with patient-scoped retrieval
-- [x] NeMo Guardrails with automatic safety disclaimer
-- [x] Deployment and verification on Google Cloud
-- [ ] **Multi-patient search:** UI selector to switch between one Patient ID and a global search, with an optional patient filter in the vector search module (needs stricter access control and clear UI labelling)
-- [ ] Source citations: return retrieved snippets with each answer
-- [ ] Authentication and role-based access
-- [ ] Audit logging of queries and guardrail interventions
-- [ ] Docker Compose packaging (UI, API, Postgres)
-- [ ] Automated evaluation set for groundedness and guardrail recall
-
 ## 🩹 Troubleshooting
 
 <details>
